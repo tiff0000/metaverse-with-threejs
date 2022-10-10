@@ -1,6 +1,8 @@
 # metaverse-with-threejs
 Creating metaverse app
 
+Metaverse - Three.js - Web3.js - Solidity 
+
 - Immersion in the Decentraland Metaverse with our own avatar. 
 
 - Develop 3D scenes in the browser. 
